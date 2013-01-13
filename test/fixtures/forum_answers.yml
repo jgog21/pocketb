@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  owner: MyText
+  answer: MyText
+  votes: 1
+  timestamp: 2012-12-28 09:42:53
+
+two:
+  owner: MyText
+  answer: MyText
+  votes: 1
+  timestamp: 2012-12-28 09:42:53

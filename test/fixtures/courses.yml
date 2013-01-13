@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyText
+  version: MyText
+  overview: MyText
+  outline: MyText
+  image_course: MyText
+  teacher_name: MyText
+  teacher_email: MyText
+  teacher_image: MyText
+  teacher_bio_summary: MyText
+  teacher_bio_mime_type: MyText
+  teacher_bio_link: MyText
+  requirements: MyText
+  outline: MyText
+  outline_mime_type: MyText
+
+two:
+  name: MyText
+  version: MyText
+  overview: MyText
+  outline: MyText
+  image_course: MyText
+  teacher_name: MyText
+  teacher_email: MyText
+  teacher_image: MyText
+  teacher_bio_summary: MyText
+  teacher_bio_mime_type: MyText
+  teacher_bio_link: MyText
+  requirements: MyText
+  outline: MyText
+  outline_mime_type: MyText
